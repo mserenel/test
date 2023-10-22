@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testing</string>
+    <string name="text_tittle">Mi encabezado</string>
+    <string name="text_content">Mi primer texto</string>
+    <string name="login">Login</string>
+    <string name="mi_app">Mi App</string>
+    <string name="menu">Menu</string>
+</resources>
